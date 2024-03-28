@@ -1,0 +1,12 @@
+D:\CODING\DataExportTestingApplication\DataExport\bin\Debug\net8.0\DataExport.deps.json
+D:\CODING\DataExportTestingApplication\DataExport\bin\Debug\net8.0\DataExport.dll
+D:\CODING\DataExportTestingApplication\DataExport\bin\Debug\net8.0\DataExport.pdb
+D:\CODING\DataExportTestingApplication\DataExport\obj\Debug\net8.0\DataExport.csproj.AssemblyReference.cache
+D:\CODING\DataExportTestingApplication\DataExport\obj\Debug\net8.0\DataExport.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\DataExportTestingApplication\DataExport\obj\Debug\net8.0\DataExport.AssemblyInfoInputs.cache
+D:\CODING\DataExportTestingApplication\DataExport\obj\Debug\net8.0\DataExport.AssemblyInfo.cs
+D:\CODING\DataExportTestingApplication\DataExport\obj\Debug\net8.0\DataExport.csproj.CoreCompileInputs.cache
+D:\CODING\DataExportTestingApplication\DataExport\obj\Debug\net8.0\DataExport.dll
+D:\CODING\DataExportTestingApplication\DataExport\obj\Debug\net8.0\refint\DataExport.dll
+D:\CODING\DataExportTestingApplication\DataExport\obj\Debug\net8.0\DataExport.pdb
+D:\CODING\DataExportTestingApplication\DataExport\obj\Debug\net8.0\ref\DataExport.dll
